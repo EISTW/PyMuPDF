@@ -7,3 +7,4 @@
    intro.rst
    installation.rst
    tutorial.rst
+   glossary.rst
